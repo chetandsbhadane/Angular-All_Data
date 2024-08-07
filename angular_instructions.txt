@@ -1,0 +1,35 @@
+learn angular
+
+angular:
+
+create project
+ng new angular-tour-of-heroes
+
+Create component
+ng generate component <component-name>
+
+html - template driven form
+__________________________________________________
+
+learn integration with mongodb
+
+npm install mongodb
+
+_______________________________________________________
+
+do simple to do list project
+
+test the api using postman
+
+___________________________________________________________
+to run angular
+ng serve --open
+
+
+i 		j 		k
+0,5,0		n-1		0
+1,4,1				1
+2,3,2				2
+3,2,3				3
+4,1,4				4
+

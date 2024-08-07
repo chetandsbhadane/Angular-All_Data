@@ -1,0 +1,7 @@
+GET http://localhost:3000/users
+
+### created user
+POST http://localhost:3000/users
+
+### otehrs
+GET http://localhost:3000/abc
